@@ -42,7 +42,7 @@ The APIs are designed to manage core resources and their operations efficiently.
 ---
 
 ## **Repository Details**
-- **GitHub Repository**: []
+- **GitHub Repository**: [https://github.com/1maheshchavan/WebDev/tree/main/src/main/java/com/example/therapyapi]
 - **Pull Request**: [https://github.com/cygnius/nick-fury/tree/main/.github]
 - **Reviewer Access**: Granted to `founder@cygniusconsulting.com`, `rajmishra@cygniusconsulting.com`, `shubham@cygniusconsulting.com`
 
